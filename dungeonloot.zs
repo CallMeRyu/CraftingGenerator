@@ -3,7 +3,7 @@
 // This script specifically adds 4 different types of coins (Copper, Iron, Silver, Gold) to various loot pools in the game.
 
 // --------------------------------------------------------------
-// If you use this with LootTableDumpCompiler.y and read the instructions on it, you will thank me. 
+// If you use this with LootTableDumpCompiler.py and read the instructions on it, you will thank me. 
 // --------------------------------------------------------------
 
 // If you know how to edit code, feel free to use this script! 
