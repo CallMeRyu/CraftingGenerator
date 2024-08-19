@@ -2,6 +2,10 @@
 // The script is written using CraftTweaker and LootTweaker, mods for Minecraft that allow you to modify loot tables and item stacks.
 // This script specifically adds 4 different types of coins (Copper, Iron, Silver, Gold) to various loot pools in the game.
 
+// --------------------------------------------------------------
+// If you use this with LootTableDumpCompiler.y and read the instructions on it, you will thank me. 
+// --------------------------------------------------------------
+
 // If you know how to edit code, feel free to use this script! 
 // All that I ask is that you give me some credit, as this took longer than it should have to figure out. 
 // Currently, as mentioned before, it adds 4 different coins into loot tables.
