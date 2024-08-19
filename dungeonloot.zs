@@ -51,7 +51,8 @@ function addCoinEntries(pool as LootPool) {
 
     // Finally, we set the number of times the loot pool is rolled. 
     // This determines how many items from the pool will actually be chosen when the chest is opened.
-    pool.setRolls(1, 3);  // The pool will roll between 1 and 3 times.
+    // UPDATE: This makes it where other loot from vanilla or mods to likely spawn period. 
+    // pool.setRolls(1, 3);  // The pool will roll between 1 and 3 times.
 }
 
 // This is a helper function to simplify the process of applying the coin entries to a specific loot table and pool.
