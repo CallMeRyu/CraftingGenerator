@@ -1,3 +1,5 @@
+# If this code can help you with your FTB Quests (1.12.2) of some automation, feel free to use it, just provide credit, that's all I ask. 
+
 import os  # This is a module that allows us to interact with the operating system, such as creating folders.
 import json  # This module helps us work with JSON data, which is a way to store information.
 import random  # This module allows us to generate random numbers or pick random things, like flipping a coin.
